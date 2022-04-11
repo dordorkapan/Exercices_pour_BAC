@@ -1,11 +1,11 @@
 Épreuve Pratique BNS 2022
-▶ Sujet 01
+- Sujet 01
 Exercice 01.1 □
 Exercice 01.2 □
-▶ Sujet 02
+- Sujet 02
 Exercice 02.1 □
 Exercice 02.2 □
-▶ Sujet 03
+- Sujet 03
 Exercice 03.1 □
 Exercice 03.2 □
 ▶ Sujet 04
