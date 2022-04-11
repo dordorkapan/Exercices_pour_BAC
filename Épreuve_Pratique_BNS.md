@@ -62,11 +62,11 @@ Exercice 19.2 □~~
 ~~Exercice 20.1 □
 Exercice 20.2 □~~
 - Sujet 21
-~~Exercice 21.1 □
-Exercice 21.2 □~~
+Exercice 21.1 □
+Exercice 21.2 □
 - Sujet 22
-~~Exercice 22.1 □
-Exercice 22.2 □~~
+Exercice 22.1 □
+Exercice 22.2 □
 - Sujet 23
 Exercice 23.1 □
 Exercice 23.2 □
