@@ -1,3 +1,5 @@
+https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2022/#
+
 Épreuve Pratique BNS 2022
 - Sujet 01
 ~~Exercice 01.1 □
