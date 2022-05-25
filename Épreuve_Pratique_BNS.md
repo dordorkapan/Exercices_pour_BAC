@@ -75,10 +75,10 @@ Exercice 23.2 □~~
 Exercice 24.2 □~~
 - Sujet 25
 ~~Exercice 25.1 □
-Exercice 25.2 □****
+Exercice 25.2 □~~
 - Sujet 26
-Exercice 26.1 □
-Exercice 26.2 □
+~~Exercice 26.1 □
+Exercice 26.2 □~~
 - Sujet 27
 Exercice 27.1 □
 Exercice 27.2 □
